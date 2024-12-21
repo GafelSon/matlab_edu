@@ -1,0 +1,34 @@
+# MATLAB temporary files
+*.asv
+*.mlx~
+*.mlappinstall
+
+# MATLAB project files
+*.prj
+
+# MATLAB live scripts and output
+*.mlapp
+*.mlpkginstall
+
+# Figures and workspace files
+*.fig
+*.mat
+
+# Simulink cache and auto-generated files
+*.slxc
+*.slx.autosave
+*.mdl.autosave
+
+# Simulink build artifacts
+slprj/
+_simulink_cache/
+
+# MATLAB preferences and logs
+*.m.lock
+*.mlhist
+*.mexw*
+
+# System files
+.DS_Store
+Thumbs.db
+
