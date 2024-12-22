@@ -1,5 +1,5 @@
 % Soheil Fouladvandi
-% Section (3)
+% Section (5)
 
 %{
 RGB stands for Red, Green, and Blue, the primary colors of light.
