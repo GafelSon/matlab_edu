@@ -1,5 +1,5 @@
 % Soheil Fouladvandi
-% Section (3)
+% Section (4)
 
 %{
 A matrix is a fundamental data type in MATLAB that represents 2D arrays.
