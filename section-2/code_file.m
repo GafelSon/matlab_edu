@@ -6,6 +6,8 @@ Arrays are one of the most fundamental data structures in MATLAB.
 They can represent scalars, vectors, matrices, and higher-dimensional data.
 %}
 
+clear;clc;close all;
+
 % 1. Types of Arrays
 
 %   Scalar:
